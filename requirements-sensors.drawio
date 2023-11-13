@@ -1,202 +1,202 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T11:14:23.070Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="b78bL1pGaS73ZHxRS3e1" version="22.1.0" type="google">
-  <diagram name="Page-1" id="cUt1Z5Ce9xikunBXRKSG">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="Electron" modified="2023-11-13T18:41:26.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="M9IxHM74BxJHl2JI8Ugx" version="22.0.3" type="device">
+  <diagram name="Page-1" id="n9elE0P5eDOggX74E3v7">
+    <mxGraphModel dx="588" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZivWDwuMXYU26zEM_INp-21" value="&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:7px;text-align:left;&quot;&gt;&lt;b&gt;req&lt;/b&gt;  Sensorik u. Sensorfusion&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=176;strokeWidth=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-1070" width="1490" height="1880" as="geometry" />
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-44" value="&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:7px;text-align:left;&quot;&gt;&lt;b&gt;req&lt;/b&gt;  Sensorik u. Sensorfusion&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=176;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="82" y="228" width="1490" height="1880" as="geometry" />
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Rundumblick Kameras&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das Fahrzeug soll Kameras für eine Rundusicht haben&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="65" y="640" width="200" height="100" as="geometry" />
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-45" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Rundumblick Kameras&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das Fahrzeug soll Kameras für eine Rundusicht haben&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="107" y="1938" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Benötigte Sensoren verbaut&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;The system shall do&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="245" y="485" width="200" height="100" as="geometry" />
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-46" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Benötigte Sensoren verbaut&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;The system shall do&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="287" y="1783" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-9" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Nahbereich Ultrasound&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das Fahrzeug soll Ultrasound für Beobachtung des Nachbereichs an der Front u. dem Heck haben&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="280" y="640" width="240" height="130" as="geometry" />
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-47" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Nahbereich Ultrasound&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das Fahrzeug soll Ultrasound für Beobachtung des Nachbereichs an der Front u. dem Heck haben&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="322" y="1938" width="240" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-10" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;RADAR Sensoren&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das Fahrzeug soll nach vorne u. hinten gerichtete Radar Sensoren haben&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="545" y="650" width="240" height="120" as="geometry" />
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-48" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;RADAR Sensoren&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das Fahrzeug soll nach vorne u. hinten gerichtete Radar Sensoren haben&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="587" y="1948" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-12" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Bilderkennung&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das System soll Objekte auf den aufgenommenen Bildern erkennen&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="50" y="330" width="235" height="120" as="geometry" />
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-49" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Bilderkennung&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das System soll Objekte auf den aufgenommenen Bildern erkennen&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="92" y="1628" width="235" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-13" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Radaranalyse&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das System soll aus Daten der Radar Sensoren potentielle Hindernisse erkennen&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="545" y="330" width="240" height="120" as="geometry" />
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-50" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Radaranalyse&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das System soll aus Daten der Radar Sensoren potentielle Hindernisse erkennen&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="587" y="1628" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-14" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Ultrasoundanalyse&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das System soll die Signale der Ultrasoundsensoren interpretieren können u. Hindernisse erkennen&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="295" y="330" width="240" height="120" as="geometry" />
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-51" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Ultrasoundanalyse&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das System soll die Signale der Ultrasoundsensoren interpretieren können u. Hindernisse erkennen&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="337" y="1628" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-16" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Umgebungsbild&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das System soll aus den gesamten Sensordaten ein Modell der aktuellen Umgebung des Fahrzeugs erstellen&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="275" y="-700" width="280" height="150" as="geometry" />
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-52" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Umgebungsbild&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das System soll aus den gesamten Sensordaten ein Modell der aktuellen Umgebung des Fahrzeugs erstellen&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="317" y="598" width="280" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-17" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Bewegende Objekte bestimmen&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das System soll mehere Umgebungsbilder vergleichen können, um sich bewegende Objekte zu identifizieren&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-870" width="310" height="130" as="geometry" />
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-53" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Bewegende Objekte bestimmen&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das System soll mehere Umgebungsbilder vergleichen können, um sich bewegende Objekte zu identifizieren&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="292" y="428" width="310" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-18" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Mögliche Kollisionen erkennen&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das System soll mögliche Kollisionen erknnen können&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="315" y="-1020" width="200" height="100" as="geometry" />
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-54" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Mögliche Kollisionen erkennen&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das System soll mögliche Kollisionen erknnen können&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="357" y="278" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-24" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.459;exitY=0.994;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZivWDwuMXYU26zEM_INp-6" target="ZivWDwuMXYU26zEM_INp-5">
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-55" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.459;exitY=0.994;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hfXF5C0ePFfZ-Y_lnFHB-46" target="hfXF5C0ePFfZ-Y_lnFHB-45">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="305" y="820" as="sourcePoint" />
-            <mxPoint x="425" y="820" as="targetPoint" />
+            <mxPoint x="347" y="2118" as="sourcePoint" />
+            <mxPoint x="467" y="2118" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-29" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZivWDwuMXYU26zEM_INp-6" target="ZivWDwuMXYU26zEM_INp-9">
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-56" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hfXF5C0ePFfZ-Y_lnFHB-46" target="hfXF5C0ePFfZ-Y_lnFHB-47">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="207" y="649" as="sourcePoint" />
-            <mxPoint x="205" y="680" as="targetPoint" />
+            <mxPoint x="249" y="1947" as="sourcePoint" />
+            <mxPoint x="247" y="1978" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-30" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZivWDwuMXYU26zEM_INp-6" target="ZivWDwuMXYU26zEM_INp-10">
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-57" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hfXF5C0ePFfZ-Y_lnFHB-46" target="hfXF5C0ePFfZ-Y_lnFHB-48">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="217" y="659" as="sourcePoint" />
-            <mxPoint x="215" y="690" as="targetPoint" />
+            <mxPoint x="259" y="1957" as="sourcePoint" />
+            <mxPoint x="257" y="1988" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-31" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZivWDwuMXYU26zEM_INp-12" target="ZivWDwuMXYU26zEM_INp-5">
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-58" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hfXF5C0ePFfZ-Y_lnFHB-49" target="hfXF5C0ePFfZ-Y_lnFHB-45">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="227" y="669" as="sourcePoint" />
-            <mxPoint x="225" y="700" as="targetPoint" />
+            <mxPoint x="269" y="1967" as="sourcePoint" />
+            <mxPoint x="267" y="1998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-32" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.858;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.913;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZivWDwuMXYU26zEM_INp-14" target="ZivWDwuMXYU26zEM_INp-9">
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-59" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.858;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.913;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hfXF5C0ePFfZ-Y_lnFHB-51" target="hfXF5C0ePFfZ-Y_lnFHB-47">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="237" y="679" as="sourcePoint" />
-            <mxPoint x="235" y="710" as="targetPoint" />
+            <mxPoint x="279" y="1977" as="sourcePoint" />
+            <mxPoint x="277" y="2008" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-33" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZivWDwuMXYU26zEM_INp-13">
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-60" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hfXF5C0ePFfZ-Y_lnFHB-50">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="247" y="689" as="sourcePoint" />
-            <mxPoint x="665" y="660" as="targetPoint" />
+            <mxPoint x="289" y="1987" as="sourcePoint" />
+            <mxPoint x="707" y="1958" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-34" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kql1UV2FeJ1EaoSSqhS6-2" target="ZivWDwuMXYU26zEM_INp-12">
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-61" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hfXF5C0ePFfZ-Y_lnFHB-77" target="hfXF5C0ePFfZ-Y_lnFHB-49">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="339.5" y="30" as="sourcePoint" />
-            <mxPoint x="262" y="540" as="targetPoint" />
+            <mxPoint x="381.5" y="1328" as="sourcePoint" />
+            <mxPoint x="304" y="1838" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-35" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kql1UV2FeJ1EaoSSqhS6-2" target="ZivWDwuMXYU26zEM_INp-14">
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-62" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hfXF5C0ePFfZ-Y_lnFHB-77" target="hfXF5C0ePFfZ-Y_lnFHB-51">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="407" y="30" as="sourcePoint" />
-            <mxPoint x="272" y="550" as="targetPoint" />
+            <mxPoint x="449" y="1328" as="sourcePoint" />
+            <mxPoint x="314" y="1848" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-36" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kql1UV2FeJ1EaoSSqhS6-2" target="ZivWDwuMXYU26zEM_INp-13">
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-63" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hfXF5C0ePFfZ-Y_lnFHB-77" target="hfXF5C0ePFfZ-Y_lnFHB-50">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="474.5" y="30" as="sourcePoint" />
-            <mxPoint x="282" y="560" as="targetPoint" />
+            <mxPoint x="516.5" y="1328" as="sourcePoint" />
+            <mxPoint x="324" y="1858" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-37" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZivWDwuMXYU26zEM_INp-17" target="ZivWDwuMXYU26zEM_INp-16">
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-64" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hfXF5C0ePFfZ-Y_lnFHB-53" target="hfXF5C0ePFfZ-Y_lnFHB-52">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="292" y="-41" as="sourcePoint" />
-            <mxPoint x="290" y="-10" as="targetPoint" />
+            <mxPoint x="334" y="1257" as="sourcePoint" />
+            <mxPoint x="332" y="1288" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-38" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZivWDwuMXYU26zEM_INp-18" target="ZivWDwuMXYU26zEM_INp-17">
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-65" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hfXF5C0ePFfZ-Y_lnFHB-54" target="hfXF5C0ePFfZ-Y_lnFHB-53">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="-700" as="sourcePoint" />
-            <mxPoint x="740" y="-580" as="targetPoint" />
+            <mxPoint x="682" y="598" as="sourcePoint" />
+            <mxPoint x="782" y="718" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-39" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Hindernisse bestimmen&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das System soll Hindernisse bestimmen können&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="580" y="-860" width="215" height="110" as="geometry" />
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-66" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Hindernisse bestimmen&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das System soll Hindernisse bestimmen können&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="622" y="438" width="215" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-40" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZivWDwuMXYU26zEM_INp-39" target="ZivWDwuMXYU26zEM_INp-18">
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-67" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hfXF5C0ePFfZ-Y_lnFHB-66" target="hfXF5C0ePFfZ-Y_lnFHB-54">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="425" y="-910" as="sourcePoint" />
-            <mxPoint x="425" y="-860" as="targetPoint" />
+            <mxPoint x="467" y="388" as="sourcePoint" />
+            <mxPoint x="467" y="438" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-42" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZivWDwuMXYU26zEM_INp-39" target="ZivWDwuMXYU26zEM_INp-16">
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-68" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hfXF5C0ePFfZ-Y_lnFHB-66" target="hfXF5C0ePFfZ-Y_lnFHB-52">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="445" y="-890" as="sourcePoint" />
-            <mxPoint x="445" y="-840" as="targetPoint" />
+            <mxPoint x="487" y="408" as="sourcePoint" />
+            <mxPoint x="487" y="458" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-43" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Getriebestellung&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das Fahrzeug soll den eingestellten Gang kennen&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1272" y="330" width="200" height="100" as="geometry" />
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-69" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Getriebestellung&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das Fahrzeug soll den eingestellten Gang kennen&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1314" y="1628" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-44" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Geschwindigkeitssensor&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das Fahrzeug soll seine aktuelle Geschwindigkeit kennen&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="842" y="330" width="200" height="100" as="geometry" />
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-70" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Geschwindigkeitssensor&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das Fahrzeug soll seine aktuelle Geschwindigkeit kennen&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="884" y="1628" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-45" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Lenkwinkel&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das Fahrzeug soll seinen aktuellen Lenkwinkel kennen&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1052" y="330" width="200" height="100" as="geometry" />
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-71" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Lenkwinkel&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das Fahrzeug soll seinen aktuellen Lenkwinkel kennen&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1094" y="1628" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-46" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Detect&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;The system shall do&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="315" y="-40" width="200" height="100" as="geometry" />
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-72" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Detect&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Informationen über Umgebung sammeln&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="357" y="1258" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-47" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Segment&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;The system shall do&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="315" y="-200" width="200" height="100" as="geometry" />
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-73" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Segment&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Datenpunkte kategorisieren&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="357" y="1098" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-48" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Classify&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;The system shall do&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="315" y="-360" width="200" height="100" as="geometry" />
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-74" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Classify&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Klassifizierung releveanter u. irrelevanter Objekte&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="357" y="938" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ZivWDwuMXYU26zEM_INp-49" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Monitor&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;The system shall do&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="315" y="-510" width="200" height="100" as="geometry" />
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-75" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Monitor&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Daten kontinuierlich überprüfen&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="357" y="788" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="kql1UV2FeJ1EaoSSqhS6-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Interne Sensoren&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das Fahrzeug soll interne Sensoren haben&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="982" y="110" width="230" height="110" as="geometry" />
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-76" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Interne Sensoren&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;Das Fahrzeug soll interne Sensoren haben&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1024" y="1408" width="230" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="kql1UV2FeJ1EaoSSqhS6-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Externe Sensoren&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;The system shall do&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="315" y="110" width="200" height="100" as="geometry" />
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-77" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Externe Sensoren&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;text=&quot;The system shall do&quot;&lt;br&gt;Id=&quot;62j32.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="357" y="1408" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="kql1UV2FeJ1EaoSSqhS6-3" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="kql1UV2FeJ1EaoSSqhS6-2">
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-78" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="hfXF5C0ePFfZ-Y_lnFHB-77">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="415" y="60" as="sourcePoint" />
-            <mxPoint x="423" y="-240" as="targetPoint" />
+            <mxPoint x="457" y="1358" as="sourcePoint" />
+            <mxPoint x="465" y="1058" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kql1UV2FeJ1EaoSSqhS6-4" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kql1UV2FeJ1EaoSSqhS6-1" target="ZivWDwuMXYU26zEM_INp-44">
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-79" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hfXF5C0ePFfZ-Y_lnFHB-76" target="hfXF5C0ePFfZ-Y_lnFHB-70">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="427" y="230" as="sourcePoint" />
-            <mxPoint x="435" y="350" as="targetPoint" />
+            <mxPoint x="469" y="1528" as="sourcePoint" />
+            <mxPoint x="477" y="1648" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kql1UV2FeJ1EaoSSqhS6-5" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kql1UV2FeJ1EaoSSqhS6-1" target="ZivWDwuMXYU26zEM_INp-45">
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-80" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hfXF5C0ePFfZ-Y_lnFHB-76" target="hfXF5C0ePFfZ-Y_lnFHB-71">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="437" y="240" as="sourcePoint" />
-            <mxPoint x="445" y="360" as="targetPoint" />
+            <mxPoint x="479" y="1538" as="sourcePoint" />
+            <mxPoint x="487" y="1658" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kql1UV2FeJ1EaoSSqhS6-6" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kql1UV2FeJ1EaoSSqhS6-1" target="ZivWDwuMXYU26zEM_INp-43">
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-81" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hfXF5C0ePFfZ-Y_lnFHB-76" target="hfXF5C0ePFfZ-Y_lnFHB-69">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="447" y="250" as="sourcePoint" />
-            <mxPoint x="455" y="370" as="targetPoint" />
+            <mxPoint x="489" y="1548" as="sourcePoint" />
+            <mxPoint x="497" y="1668" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kql1UV2FeJ1EaoSSqhS6-7" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZivWDwuMXYU26zEM_INp-16" target="kql1UV2FeJ1EaoSSqhS6-1">
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-82" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hfXF5C0ePFfZ-Y_lnFHB-52" target="hfXF5C0ePFfZ-Y_lnFHB-76">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="455" y="-320" as="sourcePoint" />
-            <mxPoint x="463" y="-200" as="targetPoint" />
+            <mxPoint x="497" y="978" as="sourcePoint" />
+            <mxPoint x="505" y="1098" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-LhFyR1HotX3XMiDyxFP-1" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZivWDwuMXYU26zEM_INp-47" target="ZivWDwuMXYU26zEM_INp-46">
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-83" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hfXF5C0ePFfZ-Y_lnFHB-73" target="hfXF5C0ePFfZ-Y_lnFHB-72">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-267" y="-10" as="sourcePoint" />
-            <mxPoint x="-259" y="110" as="targetPoint" />
+            <mxPoint x="-225" y="1288" as="sourcePoint" />
+            <mxPoint x="-217" y="1408" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-LhFyR1HotX3XMiDyxFP-2" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZivWDwuMXYU26zEM_INp-48" target="ZivWDwuMXYU26zEM_INp-47">
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-84" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hfXF5C0ePFfZ-Y_lnFHB-74" target="hfXF5C0ePFfZ-Y_lnFHB-73">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-257" as="sourcePoint" />
-            <mxPoint x="-249" y="120" as="targetPoint" />
+            <mxPoint x="-215" y="1298" as="sourcePoint" />
+            <mxPoint x="-207" y="1418" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-LhFyR1HotX3XMiDyxFP-3" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZivWDwuMXYU26zEM_INp-49" target="ZivWDwuMXYU26zEM_INp-48">
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-85" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hfXF5C0ePFfZ-Y_lnFHB-75" target="hfXF5C0ePFfZ-Y_lnFHB-74">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-247" y="10" as="sourcePoint" />
-            <mxPoint x="-239" y="130" as="targetPoint" />
+            <mxPoint x="-205" y="1308" as="sourcePoint" />
+            <mxPoint x="-197" y="1428" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-LhFyR1HotX3XMiDyxFP-4" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZivWDwuMXYU26zEM_INp-16">
+        <mxCell id="hfXF5C0ePFfZ-Y_lnFHB-86" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hfXF5C0ePFfZ-Y_lnFHB-52">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="435" y="-340" as="sourcePoint" />
-            <mxPoint x="420" y="-520" as="targetPoint" />
+            <mxPoint x="477" y="958" as="sourcePoint" />
+            <mxPoint x="462" y="778" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
