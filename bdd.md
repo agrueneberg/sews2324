@@ -1,10 +1,10 @@
 # BDD autonomes Fahrzeug
 
-![blockdefinitiondiagram-01.drawio.png](blockdefinitiondiagram-01.drawio.png)
+![blockdefinitiondiagram.drawio.png](blockdefinitiondiagram.drawio.png)
 
-Im Zentrum des Systems steht das **Fahrzeug** als Komponente.\
-Das Ziel, wohin das **Fahrzeug** fahren soll, erhält es über das **Zielbestimmungsinterface**.\
-Die **Planung** bestimmt, anhand der **Sensorik**, wie die **Aktorik** angesteuert werden muss, um zum Ziel zu gelangen.\
-Die **Sensorik** besteht zum einen aus Sensoren um Informationen über das Fahrzeug selbst zu messen (**Selbstwahrnehmung**), wie die aktuelle Position, und Sensoren um das Umfeld wahrzunehmen (**Umfeldwahrnehmung**), um zum Beispiel Hindernisse zu erkennen.\
-Es gibt verschiedene Instanzen von der Selbstwahrnehmung und der Umfeldwahrnehmung, z.B. ist der Ultraschallsensor eine Instanz der Umfeldwahrnehmung. Die Sensorik ist daher eine Sammlung von Sensoren und fusioniert die Sensordaten.\
-Die Aktorik besteht aus einem **Motor**, **Bremsen** und einer **Lenkung**.
+In dem Diagramm wurde der **Ultraschall Sensor** als eine Instanz der **Umfeldwahrnehmung** ergänzt.\
+Dieser kommuniziert direkt mit dem **Notfall Management**.\
+Die **Notfall Management** Komponente wurde eingeführt um die **Planung** zu umgehen und direkt die **Aktorik** anzusteuern,
+Damit im Notfall schneller reagiert werden kann. \
+Im Falle einer Notbremsung wird die **Planung** informiert, damit diese nicht probiert die **Aktorik** wieder zu überschreiben.\
+Die **Aktorik** ist dann dafür verantwortlich die Notfallbremsung durchzuführen.
