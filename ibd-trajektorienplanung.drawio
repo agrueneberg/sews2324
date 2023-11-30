@@ -1,0 +1,13 @@
+<mxfile host="app.diagrams.net" modified="2023-11-30T11:43:03.337Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VYvdeTupRkKVnrbe2nee" version="22.1.5" type="device">
+  <diagram name="Page-1" id="VcEldbE40SIkFAcgv00z">
+    <mxGraphModel dx="1242" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SKhvwn-lRZItN7kT1ohc-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;&lt;b&gt;ibd&lt;/b&gt;   Trajektorienplanung&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;labelX=157.42;align=left;spacingLeft=10;html=1;overflow=fill;whiteSpace=wrap;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="760" height="400" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
