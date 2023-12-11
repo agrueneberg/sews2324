@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T11:51:56.654Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="amnds97ramP0QyWB8g_3" version="22.1.7" type="device" pages="2">
+<mxfile host="Electron" modified="2023-12-11T18:13:05.810Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="LLwtr-X1TCiP02_aceqm" version="22.1.2" type="device" pages="2">
   <diagram name="par" id="Bq7eF_4bBTD27X3pA19A">
-    <mxGraphModel dx="2603" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3325" dy="2047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tHy0NTULSGOU4mEi5fOq-87" value="&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;&lt;b&gt;par&lt;/b&gt;&amp;nbsp;Notbremsung&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;labelX=120;align=left;spacingLeft=10;overflow=fill;whiteSpace=wrap;recursiveResize=0;" parent="1" vertex="1">
-          <mxGeometry x="-140" y="1670" width="1910" height="640" as="geometry" />
+          <mxGeometry x="20" y="20" width="2400" height="781" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-1" value="Kann Objekt überfahren werden?:&lt;b&gt;Objektgröße gefährliche Objekte&lt;/b&gt;" style="html=1;shape=mxgraph.sysml.paramDgm;fontStyle=1;whiteSpace=wrap;align=center;points=[[0,0.5,0,0,0]];" parent="1" vertex="1">
-          <mxGeometry x="240" y="1070" width="220" height="100" as="geometry" />
+          <mxGeometry x="340" y="676" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-2" value="h" style="resizable=0;html=1;align=left;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10;spacingLeft=22;fontStyle=1;" parent="tHy0NTULSGOU4mEi5fOq-1" connectable="0" vertex="1">
           <mxGeometry y="25" as="geometry" />
@@ -23,38 +23,40 @@
           <mxGeometry x="160" y="60" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-7" value="Notbremsung.&lt;br&gt;Objekt.Höhe" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="15.33" y="1110" width="160" height="60" as="geometry" />
+          <mxGeometry x="115.33" y="716" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-8" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" parent="tHy0NTULSGOU4mEi5fOq-7" connectable="0" vertex="1">
           <mxGeometry x="160" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="tHy0NTULSGOU4mEi5fOq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.004;exitY=0.437;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.005;entryY=0.78;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tHy0NTULSGOU4mEi5fOq-7" target="tHy0NTULSGOU4mEi5fOq-1" edge="1">
+        <mxCell id="tHy0NTULSGOU4mEi5fOq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.004;exitY=0.437;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.013;entryY=0.262;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tHy0NTULSGOU4mEi5fOq-7" target="tHy0NTULSGOU4mEi5fOq-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240.00000000000003" y="1100.32" as="targetPoint" />
+            <mxPoint x="340" y="706.3199999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tHy0NTULSGOU4mEi5fOq-15" target="tHy0NTULSGOU4mEi5fOq-156" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="520" y="890" />
-              <mxPoint x="520" y="645" />
+              <mxPoint x="620" y="496" />
+              <mxPoint x="620" y="251" />
+              <mxPoint x="890" y="251" />
+              <mxPoint x="890" y="211" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-15" value="Notbremsung.&lt;br&gt;Objekt.Entfernung" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="15.33" y="860" width="160" height="60" as="geometry" />
+          <mxGeometry x="115.33" y="466" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-16" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" parent="tHy0NTULSGOU4mEi5fOq-15" connectable="0" vertex="1">
           <mxGeometry x="160" y="30" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-27" value="Notbremsung.&lt;br&gt;Objekt.Objekttyp" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="15.329999999999997" y="940" width="160" height="60" as="geometry" />
+          <mxGeometry x="115.33" y="546" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-28" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" parent="tHy0NTULSGOU4mEi5fOq-27" connectable="0" vertex="1">
           <mxGeometry x="160" y="30" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-29" value="Darf Objekt überfahren werden?:Objekttyp" style="html=1;shape=mxgraph.sysml.paramDgm;fontStyle=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="240" y="940" width="220" height="100" as="geometry" />
+          <mxGeometry x="340" y="546" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-30" value="o" style="resizable=0;html=1;align=left;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10;spacingLeft=22;fontStyle=1;" parent="tHy0NTULSGOU4mEi5fOq-29" connectable="0" vertex="1">
           <mxGeometry y="25" as="geometry" />
@@ -70,12 +72,12 @@
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.006;exitY=0.394;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.24;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="tHy0NTULSGOU4mEi5fOq-27" target="tHy0NTULSGOU4mEi5fOq-29" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="181" y="970" as="sourcePoint" />
-            <mxPoint x="240" y="970" as="targetPoint" />
+            <mxPoint x="281" y="576" as="sourcePoint" />
+            <mxPoint x="340" y="576" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-41" value="Notbremsung:Entscheidung - Notbremsung" style="html=1;shape=mxgraph.sysml.paramDgm;fontStyle=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1825.33" y="654" width="220" height="100" as="geometry" />
+          <mxGeometry x="1925.33" y="260" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-42" value="a" style="resizable=0;html=1;align=left;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10;spacingLeft=22;fontStyle=1;" parent="tHy0NTULSGOU4mEi5fOq-41" connectable="0" vertex="1">
           <mxGeometry y="25" as="geometry" />
@@ -93,7 +95,7 @@
           <mxGeometry y="60" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-76" value="Notbremsung.&lt;br&gt;Entscheidung" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="2105.33" y="699" width="160" height="60" as="geometry" />
+          <mxGeometry x="2205.33" y="305" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-77" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" parent="tHy0NTULSGOU4mEi5fOq-76" connectable="0" vertex="1">
           <mxGeometry x="160" y="30" as="geometry" />
@@ -102,13 +104,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-95" value="Notbremsung.&lt;br&gt;Eigene Geschwindigkeit" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="15.33" y="500" width="160" height="60" as="geometry" />
+          <mxGeometry x="115.33" y="106" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-96" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" parent="tHy0NTULSGOU4mEi5fOq-95" connectable="0" vertex="1">
           <mxGeometry x="160" y="30" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-97" value="Bremsweg:Bremsweg" style="html=1;shape=mxgraph.sysml.paramDgm;fontStyle=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="234.67" y="500" width="220" height="100" as="geometry" />
+          <mxGeometry x="334.66999999999996" y="106" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-98" value="v" style="resizable=0;html=1;align=left;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10;spacingLeft=22;fontStyle=1;" parent="tHy0NTULSGOU4mEi5fOq-97" connectable="0" vertex="1">
           <mxGeometry y="25" as="geometry" />
@@ -124,12 +126,12 @@
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.006;exitY=0.394;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.24;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="tHy0NTULSGOU4mEi5fOq-95" target="tHy0NTULSGOU4mEi5fOq-97" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="175.67" y="530" as="sourcePoint" />
-            <mxPoint x="234.67" y="530" as="targetPoint" />
+            <mxPoint x="275.66999999999996" y="136" as="sourcePoint" />
+            <mxPoint x="334.66999999999996" y="136" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-104" value="Notbremsung.&lt;br&gt;Eigene Richtungsvektor" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="15.33" y="640" width="160" height="60" as="geometry" />
+          <mxGeometry x="115.33" y="246" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-105" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" parent="tHy0NTULSGOU4mEi5fOq-104" connectable="0" vertex="1">
           <mxGeometry x="160" y="30" as="geometry" />
@@ -138,7 +140,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-106" value="Notbremsung.&lt;br&gt;Objekt.Postion" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="15.329999999999997" y="790" width="160" height="60" as="geometry" />
+          <mxGeometry x="115.33" y="396" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-107" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" parent="tHy0NTULSGOU4mEi5fOq-106" connectable="0" vertex="1">
           <mxGeometry x="160" y="30" as="geometry" />
@@ -147,19 +149,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-108" value="Notbremsung.&lt;br&gt;Eigene Position" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="15.330000000000013" y="570" width="160" height="60" as="geometry" />
+          <mxGeometry x="115.33000000000001" y="176" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-109" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" parent="tHy0NTULSGOU4mEi5fOq-108" connectable="0" vertex="1">
           <mxGeometry x="160" y="30" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-110" value="Notbremsung.&lt;br&gt;Objekt.Richtungsvektor" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="15.33" y="720" width="160" height="60" as="geometry" />
+          <mxGeometry x="115.33" y="326" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-111" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" parent="tHy0NTULSGOU4mEi5fOq-110" connectable="0" vertex="1">
           <mxGeometry x="160" y="30" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-118" value="NAND" style="html=1;shape=mxgraph.sysml.paramDgm;fontStyle=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="520" y="1020" width="220" height="100" as="geometry" />
+          <mxGeometry x="620" y="626" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-119" value="a" style="resizable=0;html=1;align=left;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10;spacingLeft=22;fontStyle=1;" parent="tHy0NTULSGOU4mEi5fOq-118" connectable="0" vertex="1">
           <mxGeometry y="25" as="geometry" />
@@ -183,7 +185,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-126" value="Ist auf Kollisionskurs:Kollisionskurs" style="html=1;shape=mxgraph.sysml.paramDgm;fontStyle=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="240" y="650" width="220" height="168" as="geometry" />
+          <mxGeometry x="340" y="256" width="220" height="168" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-127" value="v" style="resizable=0;html=1;align=left;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10;spacingLeft=22;fontStyle=1;" parent="tHy0NTULSGOU4mEi5fOq-126" connectable="0" vertex="1">
           <mxGeometry y="40" as="geometry" />
@@ -195,7 +197,7 @@
           <mxGeometry x="200" y="104" width="20" height="32" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-130" value="r" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="tHy0NTULSGOU4mEi5fOq-126" vertex="1">
-          <mxGeometry x="160" y="96" width="60" height="48" as="geometry" />
+          <mxGeometry x="160" y="90" width="60" height="54" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-131" value="v1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="tHy0NTULSGOU4mEi5fOq-126" vertex="1">
           <mxGeometry y="96" width="60" height="48" as="geometry" />
@@ -216,7 +218,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-134" value="And:And" style="html=1;shape=mxgraph.sysml.paramDgm;fontStyle=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="750" width="220" height="100" as="geometry" />
+          <mxGeometry x="1240" y="346" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-135" value="a" style="resizable=0;html=1;align=left;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10;spacingLeft=22;fontStyle=1;" parent="tHy0NTULSGOU4mEi5fOq-134" connectable="0" vertex="1">
           <mxGeometry y="25" as="geometry" />
@@ -235,14 +237,14 @@
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.277;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tHy0NTULSGOU4mEi5fOq-130" target="tHy0NTULSGOU4mEi5fOq-134" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="850" y="790" as="targetPoint" />
+            <mxPoint x="950" y="396" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.121;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tHy0NTULSGOU4mEi5fOq-110" target="tHy0NTULSGOU4mEi5fOq-146" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tHy0NTULSGOU4mEi5fOq-151" value="Kleiner oder Gleich" style="html=1;shape=mxgraph.sysml.paramDgm;fontStyle=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="850" y="530" width="220" height="100" as="geometry" />
+        <mxCell id="tHy0NTULSGOU4mEi5fOq-151" value="KoG:Kleiner order Gleich" style="html=1;shape=mxgraph.sysml.paramDgm;fontStyle=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="950" y="136" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-152" value="w" style="resizable=0;html=1;align=left;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10;spacingLeft=22;fontStyle=1;" parent="tHy0NTULSGOU4mEi5fOq-151" connectable="0" vertex="1">
           <mxGeometry y="25" as="geometry" />
@@ -263,7 +265,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-159" value="And:And" style="html=1;shape=mxgraph.sysml.paramDgm;fontStyle=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1475.33" y="654" width="220" height="100" as="geometry" />
+          <mxGeometry x="1575.33" y="260" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-160" value="a" style="resizable=0;html=1;align=left;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10;spacingLeft=22;fontStyle=1;" parent="tHy0NTULSGOU4mEi5fOq-159" connectable="0" vertex="1">
           <mxGeometry y="25" as="geometry" />
@@ -283,89 +285,77 @@
         <mxCell id="tHy0NTULSGOU4mEi5fOq-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tHy0NTULSGOU4mEi5fOq-138" target="tHy0NTULSGOU4mEi5fOq-164" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tHy0NTULSGOU4mEi5fOq-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.264;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="tHy0NTULSGOU4mEi5fOq-155" target="tHy0NTULSGOU4mEi5fOq-159" edge="1">
+        <mxCell id="tHy0NTULSGOU4mEi5fOq-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.265;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="tHy0NTULSGOU4mEi5fOq-155" target="tHy0NTULSGOU4mEi5fOq-159" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1175" y="649" as="sourcePoint" />
+            <mxPoint x="1275" y="255" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.009;entryY=0.221;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tHy0NTULSGOU4mEi5fOq-163" target="tHy0NTULSGOU4mEi5fOq-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-VXfVvx4DpoJBeSS0Hdj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tHy0NTULSGOU4mEi5fOq-122" target="tHy0NTULSGOU4mEi5fOq-139">
+        <mxCell id="-VXfVvx4DpoJBeSS0Hdj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tHy0NTULSGOU4mEi5fOq-122" target="tHy0NTULSGOU4mEi5fOq-139" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1030" y="1065" as="sourcePoint" />
+            <mxPoint x="1130" y="671" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-VXfVvx4DpoJBeSS0Hdj-10" value="Puffer" style="html=1;shape=mxgraph.sysml.paramDgm;fontStyle=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="570" y="450" width="220" height="100" as="geometry" />
+        <mxCell id="-VXfVvx4DpoJBeSS0Hdj-10" value="Puffer:Puffer Bremsweg" style="html=1;shape=mxgraph.sysml.paramDgm;fontStyle=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="670" y="56" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="-VXfVvx4DpoJBeSS0Hdj-11" value="w" style="resizable=0;html=1;align=left;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10;spacingLeft=22;fontStyle=1;" connectable="0" vertex="1" parent="-VXfVvx4DpoJBeSS0Hdj-10">
+        <mxCell id="-VXfVvx4DpoJBeSS0Hdj-11" value="" style="resizable=0;html=1;align=left;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10;spacingLeft=22;fontStyle=1;" parent="-VXfVvx4DpoJBeSS0Hdj-10" connectable="0" vertex="1">
           <mxGeometry y="25" as="geometry" />
         </mxCell>
-        <mxCell id="-VXfVvx4DpoJBeSS0Hdj-12" value="" style="resizable=0;html=1;align=left;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10;spacingLeft=22;fontStyle=1;" connectable="0" vertex="1" parent="-VXfVvx4DpoJBeSS0Hdj-10">
+        <mxCell id="-VXfVvx4DpoJBeSS0Hdj-12" value="" style="resizable=0;html=1;align=left;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10;spacingLeft=22;fontStyle=1;" parent="-VXfVvx4DpoJBeSS0Hdj-10" connectable="0" vertex="1">
           <mxGeometry y="75" as="geometry" />
         </mxCell>
-        <mxCell id="-VXfVvx4DpoJBeSS0Hdj-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="-VXfVvx4DpoJBeSS0Hdj-10">
+        <mxCell id="-VXfVvx4DpoJBeSS0Hdj-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" parent="-VXfVvx4DpoJBeSS0Hdj-10" vertex="1">
           <mxGeometry x="200" y="65" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-VXfVvx4DpoJBeSS0Hdj-14" value="r" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-VXfVvx4DpoJBeSS0Hdj-10">
+        <mxCell id="-VXfVvx4DpoJBeSS0Hdj-14" value="r" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-VXfVvx4DpoJBeSS0Hdj-10" vertex="1">
           <mxGeometry x="160" y="60" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-VXfVvx4DpoJBeSS0Hdj-15" value="e" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-VXfVvx4DpoJBeSS0Hdj-10">
+        <mxCell id="-VXfVvx4DpoJBeSS0Hdj-15" value="e" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-VXfVvx4DpoJBeSS0Hdj-10" vertex="1">
           <mxGeometry y="60" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-VXfVvx4DpoJBeSS0Hdj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.014;entryY=0.21;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-VXfVvx4DpoJBeSS0Hdj-10" target="tHy0NTULSGOU4mEi5fOq-151">
+        <mxCell id="-VXfVvx4DpoJBeSS0Hdj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.014;entryY=0.21;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="-VXfVvx4DpoJBeSS0Hdj-10" target="tHy0NTULSGOU4mEi5fOq-151" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="cP5aK-2l6MVHGxgbmIja" name="bdd">
-    <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1663" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YcovKsiL6sOtGHQFJfTx-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;&lt;b&gt;bdd&lt;/b&gt;   Notbremsung&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;labelX=120;align=left;spacingLeft=10;overflow=fill;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="40" width="1050" height="900" as="geometry" />
+        <mxCell id="YcovKsiL6sOtGHQFJfTx-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;&lt;b&gt;bdd&lt;/b&gt;   Notbremsung&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;labelX=120;align=left;spacingLeft=10;overflow=fill;recursiveResize=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="20" width="1010" height="670" as="geometry" />
         </mxCell>
-        <mxCell id="YcovKsiL6sOtGHQFJfTx-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Objektgröße&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;{IF h &amp;gt; 0,1 THEN result = true}&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;h: Meter&lt;br&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="60" y="80" width="200" height="140" as="geometry" />
+        <mxCell id="YcovKsiL6sOtGHQFJfTx-5" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Objekttyp&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;{IF NOT o = Mensch or o = Glas Then result = true}&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;o: {Metall, Glas, Stein, Schnee, Laub, Tier, Mensch}&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="60" y="80" width="200" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="YcovKsiL6sOtGHQFJfTx-3" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Entfernung&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;{IF d &amp;lt; 100 THEN result = true}&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;d: Meter&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="320" y="80" width="200" height="140" as="geometry" />
+        <mxCell id="YcovKsiL6sOtGHQFJfTx-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Entscheidung - Notbremsung&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;{IF a = true THEN result = yes}&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;a: bool&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="540" y="80" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="YcovKsiL6sOtGHQFJfTx-4" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Relative Geschwindigkeit&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;{IF v &amp;lt; 0 THEN result = true}&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;v: Meter/Sekunde&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="560" y="80" width="200" height="140" as="geometry" />
+        <mxCell id="YcovKsiL6sOtGHQFJfTx-8" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;And&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;{IF a and b = true THEN result = true}&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;a: bool&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;b: bool&lt;br&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="300" y="80" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="YcovKsiL6sOtGHQFJfTx-5" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Objekttyp&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;{IF o = Metall or Glas or Stein Then result = true}&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;o: {Metall, Glas, Stein, Schnee, Laub, Tier}&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="800" y="80" width="200" height="170" as="geometry" />
+        <mxCell id="YcovKsiL6sOtGHQFJfTx-9" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Kollisionskurs&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;{IF v u. v1 schneiden von p u. p1 THEN result = true}&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;v: vector&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;v1: vector&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;p: position&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;p1: position&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="780" y="290" width="200" height="195" as="geometry" />
         </mxCell>
-        <mxCell id="YcovKsiL6sOtGHQFJfTx-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Or&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;{IF a or b = true THEN result = true}&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;a: bool&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;b: bool&lt;br&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="60" y="280" width="200" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="YcovKsiL6sOtGHQFJfTx-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Entscheidung - Notbremsung&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;{IF a = true THEN result = yes}&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;a: bool&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="560" y="280" width="200" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="YcovKsiL6sOtGHQFJfTx-8" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;And&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;{IF a and b = true THEN result = true}&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;a: bool&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;b: bool&lt;br&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="320" y="280" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="YcovKsiL6sOtGHQFJfTx-9" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Kollisionskurs&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;{IF v u. p schneiden THEN result = true}&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;v: vector&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;v1: vector&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;p: position&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;p1: position&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="800" y="275" width="200" height="195" as="geometry" />
-        </mxCell>
-        <mxCell id="YcovKsiL6sOtGHQFJfTx-10" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Bremsweg&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;{result = ...}&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;v: Meter/Sekunde&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="YcovKsiL6sOtGHQFJfTx-10" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Bremsweg&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;{result = v * v / 100}&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;v: km/h&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="60" y="480" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="YcovKsiL6sOtGHQFJfTx-11" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Relative Geschwindigkeit&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;{IF w ... Then result = true}&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;a: Meter&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="560" y="480" width="200" height="150" as="geometry" />
+        <mxCell id="YcovKsiL6sOtGHQFJfTx-12" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Objektgröße gefährliche Objekte&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;{IF h &amp;gt; 0,01 THEN result = true}&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;h: Meter&lt;br&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="300" y="290" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="YcovKsiL6sOtGHQFJfTx-12" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Objektgröße gefährliche Objekte&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;{IF h &amp;gt; 0,01 THEN result = true}&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;h: Meter&lt;br&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="800" y="480" width="200" height="140" as="geometry" />
+        <mxCell id="YcovKsiL6sOtGHQFJfTx-13" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Puffer Bremsweg&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;{result = e +&amp;nbsp; e / 5}&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;e : Meter&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="540" y="290" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="YcovKsiL6sOtGHQFJfTx-13" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Puffer Bremsweg&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;{IF w ... Then result = true}&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;w: Meter&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;e : Meter&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="60" y="660" width="200" height="150" as="geometry" />
+        <mxCell id="YcovKsiL6sOtGHQFJfTx-14" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Kleiner oder Gleich&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;{IF e &amp;lt;= w Then result = true}&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;w: int&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;e : int&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="60" y="290" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="YcovKsiL6sOtGHQFJfTx-14" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Kleiner oder Gleich&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;{IF w ... Then result = true}&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size: 10px; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;w: int&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px 10px; text-align: left;&quot;&gt;e : int&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="320" y="660" width="200" height="150" as="geometry" />
+        <mxCell id="0zBbUDFgHmEUHGAQRZg0-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;lt;&amp;lt;constraint&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;NAND&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;constraints&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;{IF NOT a and b = true THEN result = true}&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;font-size:10px;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;parameters&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;a: bool&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;b: bool&lt;br&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="780" y="80" width="200" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
