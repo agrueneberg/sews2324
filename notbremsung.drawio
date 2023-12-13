@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T13:56:57.135Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="H_iZVIMTbUb2aN9cEVe8" version="22.1.8" type="device" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-13T14:13:48.928Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="HQMfzV6zFwDJ68UsW009" version="22.1.8" type="device" pages="2">
   <diagram name="par" id="Bq7eF_4bBTD27X3pA19A">
     <mxGraphModel dx="2954" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -36,6 +36,8 @@
         <mxCell id="tHy0NTULSGOU4mEi5fOq-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tHy0NTULSGOU4mEi5fOq-15" target="tHy0NTULSGOU4mEi5fOq-156" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="230" y="546" />
+              <mxPoint x="230" y="486" />
               <mxPoint x="550" y="486" />
               <mxPoint x="550" y="241" />
               <mxPoint x="820" y="241" />
@@ -74,6 +76,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="211" y="566" as="sourcePoint" />
             <mxPoint x="270" y="566" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="620" />
+              <mxPoint x="230" y="560" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-41" value="Notbremsung:Entscheidung - Notbremsung" style="html=1;shape=mxgraph.sysml.paramDgm;fontStyle=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
@@ -98,7 +104,14 @@
           <mxGeometry x="160" y="30" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tHy0NTULSGOU4mEi5fOq-45" target="tHy0NTULSGOU4mEi5fOq-76" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1460" y="511" />
+              <mxPoint x="1460" y="578" />
+              <mxPoint x="1230" y="578" />
+              <mxPoint x="1230" y="660" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-95" value="Notbremsung.&lt;br&gt;Eigene Geschwindigkeit" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="45.33" y="86" width="160" height="60" as="geometry" />
@@ -130,14 +143,19 @@
             <mxPoint x="264.66999999999996" y="126" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tHy0NTULSGOU4mEi5fOq-104" value="Notbremsung.&lt;br&gt;Eigene Richtungsvektor" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+        <mxCell id="tHy0NTULSGOU4mEi5fOq-104" value="Notbremsung.&lt;br&gt;Eigener Richtungsvektor" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="45.33" y="296" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-105" value="" style="align=left;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;fontSize=10" parent="tHy0NTULSGOU4mEi5fOq-104" connectable="0" vertex="1">
           <mxGeometry x="160" y="30" as="geometry" />
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tHy0NTULSGOU4mEi5fOq-106" target="tHy0NTULSGOU4mEi5fOq-146" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="476" />
+              <mxPoint x="230" y="390" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-106" value="Notbremsung.&lt;br&gt;Objekt.Postion" style="shape=rect;strokeWidth=2;fontStyle=1;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="45.33" y="446" width="160" height="60" as="geometry" />
@@ -241,7 +259,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.121;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tHy0NTULSGOU4mEi5fOq-110" target="tHy0NTULSGOU4mEi5fOq-146" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="406" />
+              <mxPoint x="220" y="372" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="tHy0NTULSGOU4mEi5fOq-151" value="KoG:Kleiner oder Gleich" style="html=1;shape=mxgraph.sysml.paramDgm;fontStyle=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="880" y="126" width="220" height="100" as="geometry" />
@@ -295,8 +318,8 @@
             <Array as="points">
               <mxPoint x="1460" y="325" />
               <mxPoint x="1460" y="390" />
-              <mxPoint x="1210" y="390" />
-              <mxPoint x="1210" y="462" />
+              <mxPoint x="1200" y="390" />
+              <mxPoint x="1200" y="458" />
             </Array>
           </mxGeometry>
         </mxCell>
